@@ -8,7 +8,6 @@ require './teacher'
 classroom = Classroom.new('JS 2 A')
 student1 = Student.new(18, 'JS2 A', name: 'Clinton', parent_permission: false)
 
-
 puts classroom.label
 puts student1.classroom = classroom
 print classroom.student
