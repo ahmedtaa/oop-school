@@ -29,10 +29,16 @@ $ bundle install
 
 ## Authors
 
-👤 **Author1**
+👤 **Ahmed**
 
 - GitHub: [@ahmedta](https://github.com/ahmedta)
 - Twitter: [@\_ahmedta](https://twitter.com/_ahmedta)
+
+👤 **Omar Salem**
+
+- GitHub: [Omar Salem](https://github.com/omarsalem7)
+- Twitter: [Omar Salem](https://twitter.com/Omar80491499)
+- LinkedIn: [Omar Salem](https://www.linkedin.com/in/omar-salem-a6945b177/)
 
 ## 🤝 Contributing
 
