@@ -1,0 +1,1 @@
+[{"json_class":"Rental","date":"today","book":{"json_class":"Book","title":"title","author":"al"},"person":{"json_class":"Student","id":184,"age":"15","name":"ali","classroom":null,"parent_permission":true}}]
