@@ -18,7 +18,7 @@ class PersonModule
     age = gets.chomp
     print 'Name: '
     name = gets.chomp
-    
+
     case person_type
     when '2'
       create_teacher(@persons, name, age)
