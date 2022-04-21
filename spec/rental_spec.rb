@@ -5,7 +5,7 @@ describe Rental do
   before :each do
     @book = Book.new('Common sense approach to programming', 'Micheal Hart')
 
-    @teacher = Teacher.new('math', 'sam',19)
+    @teacher = Teacher.new('math', 'sam', 19)
     @rental = Rental.new('2020-12-11', @book, @teacher)
   end
 
