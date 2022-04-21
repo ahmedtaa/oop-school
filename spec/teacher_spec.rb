@@ -2,7 +2,7 @@ require_relative '../classes/teacher'
 
 describe Teacher do
   before :each do
-    @teacher = Teacher.new('math', 19, 'sam')
+    @teacher = Teacher.new('math', 'sam', 19)
   end
 
   it 'it should return true' do
